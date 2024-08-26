@@ -19,9 +19,9 @@ The BuscaInstrumentos project is designed to aggregate and display information a
 
 ### Repositories
 Here are the links to the individual repositories that make up this project:
-- **[Scrapers Repository](#github.com/jorgeiras/buscainstrumentos_scrapers)**
-- **[Backend Repository](#github.com/jorgeiras/buscainstrumentos_back)**
-- **[Frontend Repository](#https://github.com/jorgeiras/buscainstrumentos_front)**
+- **[Scrapers Repository](#www.github.com/jorgeiras/buscainstrumentos_scrapers)**
+- **[Backend Repository](#www.github.com/jorgeiras/buscainstrumentos_back)**
+- **[Frontend Repository](#www.github.com/jorgeiras/buscainstrumentos_front)**
 
 ### Project Goals
 The main objectives of the BuscaInstrumentos project include:
