@@ -1,7 +1,13 @@
 # BuscaInstrumentos Project
 
+<div align="center">
+  <img src="https://github.com/jorgeiras/buscainstrumentos_central/blob/main/images/buscainstrumentoslogo.png" alt="scrapers Logo">
+</div>
+
 ### Description
 This repository serves as the central hub for the BuscaInstrumentos project, which is divided into three main components: the scrapers, backend, and frontend. This project showcases my skills in full-stack development, DevOps practices, cloud infrastructure, and data scraping.
+  
+**Visit the live website here: [BuscaInstrumentos Web](https://jorgeiras.github.io/buscainstrumentos_front)**
 
 ### Table of Contents
 1. [Project Overview](#project-overview)
@@ -19,9 +25,9 @@ The BuscaInstrumentos project is designed to aggregate and display information a
 
 ### Repositories
 Here are the links to the individual repositories that make up this project:
-- **[Scrapers Repository](github.com/jorgeiras/buscainstrumentos_scrapers)**
-- **[Backend Repository](github.com/jorgeiras/buscainstrumentos_back)**
-- **[Frontend Repository](github.com/jorgeiras/buscainstrumentos_front)**
+- **[Scrapers Repository](https://github.com/jorgeiras/buscainstrumentos_scrapers)**
+- **[Backend Repository](https://github.com/jorgeiras/buscainstrumentos_back)**
+- **[Frontend Repository](https://github.com/jorgeiras/buscainstrumentos_front)**
 
 ### Project Goals
 The main objectives of the BuscaInstrumentos project include:
