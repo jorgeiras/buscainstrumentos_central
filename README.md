@@ -1,7 +1,7 @@
 # BuscaInstrumentos Project
 
 <div align="center">
-  <img src="https://github.com/jorgeiras/buscainstrumentos_central/blob/main/images/buscainstrumentoslogo.png" alt="scrapers Logo">
+  <img src="https://github.com/jorgeiras/buscainstrumentos_central/blob/main/images/buscainstrumentoslogo.png" alt="buscainstrumentos Logo">
 </div>
 
 ### Description
